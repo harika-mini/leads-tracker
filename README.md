@@ -12,11 +12,11 @@ Access saved leads directly from the extension popup.
 Built to run fast without using excessive browser memory.
 
 ## Installation
-Clone this repository or download the ZIP.
-In Chrome, navigate to chrome://extensions/.
-Enable Developer mode (top right corner).
-Click on Load unpacked and select the folder containing this extension's files.
-The Leads Tracker icon should now appear in your Chrome toolbar.
+1. Clone this repository or download the ZIP.
+2. In Chrome, navigate to chrome://extensions/.
+3. Enable Developer mode (top right corner).
+4. Click on Load unpacked and select the folder containing this extension's files.
+5. The Leads Tracker icon should now appear in your Chrome toolbar.
 
 ## Screenshots
 Here’s a preview of the Leads Tracker in action:
